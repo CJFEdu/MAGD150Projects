@@ -4,10 +4,14 @@
 [Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab01/)
 
 ## Project 2
+[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab02/)
 
 ## Project 3
+[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab03/)
 
 ## Project 4
+[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab04/)
 
 ## Project 5
+[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab05/)
  
