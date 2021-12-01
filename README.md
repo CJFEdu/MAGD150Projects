@@ -4,7 +4,7 @@
 ### Static Composition in Black and White
 
 **Theme:** Buildings  
-**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab01/)
+**[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab01/)**
 
 A simple sketch in greyscale using shapes to draw a building.
 
