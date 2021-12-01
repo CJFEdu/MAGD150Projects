@@ -1,6 +1,6 @@
 # MAGD 150 Projects
 
-## Project 1
+## [Project 1] (https://cjfedu.github.io/MAGD150Projects/f21magd150lab01/)
 
 ## Project 2
 
