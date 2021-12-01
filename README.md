@@ -31,16 +31,17 @@ If the ball hits a white "bubble", the bubble disappears.
 ## Project 4
 ### Dynamism  
 
-**Theme:** Pizza
+**Theme:** Pizza  
 **[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab04/)**  
 
-
+This sketch expands on the previous Bubbles sketch. Here "pizza" crusts fall from the top of the sketch. 
+The viewer can click on the crusts to add "toppings".  Using the number keys 1 and 2 switches between the red and white toppings.
 
 ## Project 5
 ### Intersections  
 
-**Theme:** Television
-**[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab05/)**  
+**Theme:** Television  
+**[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab05/)**   
 
-This is just a simple television sketch.  Clicking on the ON button causes the a loading symbol to appear.  Clicking on the OFF button makes it go away again.
+This is just a simple television sketch.  Clicking on the ON button causes the a loading symbol to appear. Clicking on the OFF button makes it go away again.
  
