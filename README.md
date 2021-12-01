@@ -12,23 +12,23 @@ A simple sketch in greyscale using shapes to draw a building.
 ### Color Composition  
 
 **Theme:** Planets / Outer Space  
-**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab02/)
+**[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab02/)**
 
 ## Project 3
 ### Math  
 
 **Theme:** Bubbles  
-**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab03/)
+**[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab03/)**
 
 ## Project 4
 ### Dynamism  
 
 **Theme:** Pizza
-**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab04/)
+**[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab04/)**
 
 ## Project 5
 ### Intersections  
 
 **Theme:** Television
-**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab05/)
+**[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab05/)**
  
