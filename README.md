@@ -1,17 +1,34 @@
 # MAGD 150 Projects
 
 ## Project 1
-[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab01/)
+### Static Composition in Black and White
+
+**Theme:** 
+**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab01/)
+
+A simple sketch in greyscale using shapes to draw 
 
 ## Project 2
-[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab02/)
+### 
+
+**Theme:** 
+**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab02/)
 
 ## Project 3
-[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab03/)
+### 
+
+**Theme:** 
+**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab03/)
 
 ## Project 4
-[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab04/)
+### 
+
+**Theme:** 
+**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab04/)
 
 ## Project 5
-[Project Link](https://cjfedu.github.io/MAGD150Projects/f21magd150lab05/)
+### 
+
+**Theme:** 
+**[Project Link]**(https://cjfedu.github.io/MAGD150Projects/f21magd150lab05/)
  
